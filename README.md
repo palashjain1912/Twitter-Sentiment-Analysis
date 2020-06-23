@@ -1,9 +1,9 @@
 # Twitter-Sentiment-Analysis
-Module - Sentiment Analysis happens in this file.
+Module.ipynb - Sentiment Analysis using twitter API.
 
 Natural Language Processing- New Data-Pickler.ipynb - All the algorithms are trained and pickled
 
-Natural Language Processing.ipynb - Introduction to NLP and basics to understand the package
+Natural Language Processing.ipynb - Introduction to NLP and basics to understand the NLTK package
 
 Plot Sentiment.ipynb - Plotting the sentiment analysis graph
 
